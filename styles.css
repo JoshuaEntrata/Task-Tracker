@@ -91,7 +91,7 @@ body {
 .box {
   height: 142px;
   background-color: var(--span-color);
-  margin: 15px 5px;
+  margin: 15px 5px 10px;
   padding: 7px 20px;
   border: 1px solid var(--footer-color);
   border-radius: 8px;
